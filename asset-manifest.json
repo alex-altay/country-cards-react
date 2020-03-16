@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alex-altay/country-cards-react/static/css/main.b1db8322.chunk.css",
-    "main.js": "/alex-altay/country-cards-react/static/js/main.a63ac3f7.chunk.js",
-    "main.js.map": "/alex-altay/country-cards-react/static/js/main.a63ac3f7.chunk.js.map",
-    "runtime-main.js": "/alex-altay/country-cards-react/static/js/runtime-main.66910c38.js",
-    "runtime-main.js.map": "/alex-altay/country-cards-react/static/js/runtime-main.66910c38.js.map",
-    "static/js/2.863dfb9a.chunk.js": "/alex-altay/country-cards-react/static/js/2.863dfb9a.chunk.js",
-    "static/js/2.863dfb9a.chunk.js.map": "/alex-altay/country-cards-react/static/js/2.863dfb9a.chunk.js.map",
-    "index.html": "/alex-altay/country-cards-react/index.html",
-    "precache-manifest.5edba4be4761fdba9020c42fff3db338.js": "/alex-altay/country-cards-react/precache-manifest.5edba4be4761fdba9020c42fff3db338.js",
-    "service-worker.js": "/alex-altay/country-cards-react/service-worker.js",
-    "static/css/main.b1db8322.chunk.css.map": "/alex-altay/country-cards-react/static/css/main.b1db8322.chunk.css.map",
-    "static/js/2.863dfb9a.chunk.js.LICENSE.txt": "/alex-altay/country-cards-react/static/js/2.863dfb9a.chunk.js.LICENSE.txt",
-    "static/media/edit.svg": "/alex-altay/country-cards-react/static/media/edit.2927f8de.svg"
+    "main.css": "/country-cards-react/static/css/main.b1db8322.chunk.css",
+    "main.js": "/country-cards-react/static/js/main.c35639ad.chunk.js",
+    "main.js.map": "/country-cards-react/static/js/main.c35639ad.chunk.js.map",
+    "runtime-main.js": "/country-cards-react/static/js/runtime-main.a651dd14.js",
+    "runtime-main.js.map": "/country-cards-react/static/js/runtime-main.a651dd14.js.map",
+    "static/js/2.863dfb9a.chunk.js": "/country-cards-react/static/js/2.863dfb9a.chunk.js",
+    "static/js/2.863dfb9a.chunk.js.map": "/country-cards-react/static/js/2.863dfb9a.chunk.js.map",
+    "index.html": "/country-cards-react/index.html",
+    "precache-manifest.7ff46f0f7ea57a19d566158f8c4db7cb.js": "/country-cards-react/precache-manifest.7ff46f0f7ea57a19d566158f8c4db7cb.js",
+    "service-worker.js": "/country-cards-react/service-worker.js",
+    "static/css/main.b1db8322.chunk.css.map": "/country-cards-react/static/css/main.b1db8322.chunk.css.map",
+    "static/js/2.863dfb9a.chunk.js.LICENSE.txt": "/country-cards-react/static/js/2.863dfb9a.chunk.js.LICENSE.txt",
+    "static/media/edit.svg": "/country-cards-react/static/media/edit.2927f8de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.66910c38.js",
+    "static/js/runtime-main.a651dd14.js",
     "static/js/2.863dfb9a.chunk.js",
     "static/css/main.b1db8322.chunk.css",
-    "static/js/main.a63ac3f7.chunk.js"
+    "static/js/main.c35639ad.chunk.js"
   ]
 }
